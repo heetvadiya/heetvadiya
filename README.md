@@ -80,7 +80,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-mahi&style=for-the-badge" alt="">
+  <img src="https://komarev.com/ghpvc/?username=heetvadiya&style=for-the-badge" alt="">
 </p>
 
 
